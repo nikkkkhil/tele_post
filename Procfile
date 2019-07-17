@@ -1,1 +1,1 @@
-web: python cri_red.py
+web: python tele.py
