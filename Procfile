@@ -1,1 +1,1 @@
-worker: python tele.py
+web: python tele.py 
